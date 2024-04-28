@@ -15,6 +15,7 @@ bower_components/
 # Ignore editor files
 .vscode/
 .idea/
+.env
 
 # Ignore OS metadata
 .DS_Store
